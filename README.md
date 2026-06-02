@@ -1,8 +1,8 @@
-# TechHub Mobile
+# InfoApp Mobile
 
 ## Descrição
 
-O TechHub Mobile é um aplicativo desenvolvido em React Native utilizando a plataforma Expo Snack. O projeto foi criado com o objetivo de demonstrar a implementação de uma aplicação mobile com múltiplas telas, navegação entre páginas, cadastro de perfil, configurações personalizáveis e área de contatos.
+O InfoApp Mobile é um aplicativo desenvolvido em React Native utilizando a plataforma Expo Snack. O projeto foi criado com o objetivo de demonstrar a implementação de uma aplicação mobile com múltiplas telas, navegação entre páginas, cadastro de perfil, configurações personalizáveis e área de contatos.
 
 O sistema centraliza funcionalidades básicas encontradas em diversos aplicativos modernos, oferecendo uma interface simples, organizada e intuitiva.
 
